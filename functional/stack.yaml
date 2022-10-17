@@ -1,0 +1,14 @@
+resolver: lts-9.0
+
+packages:
+- .
+extra-deps:
+- gloss-1.10.2.3
+- gloss-rendering-1.10.3.3
+
+
+flags: {}
+
+extra-package-dbs: []
+
+compiler-check: newer-minor
