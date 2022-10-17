@@ -3,7 +3,7 @@
 
 ----------
 cara melakukan setup 
-Masuk ke terminal Open CD folder function
+Masuk ke terminal Open CD folder functional
 -- cabal run functional
 
 jika Grafik interface tidak muncul harus download terlebih dahulu (dikarenakan dari librarry GLUT
