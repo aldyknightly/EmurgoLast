@@ -25,3 +25,5 @@ Catatan : File dengan nama freeglut.dll format file dll Terdapat Folder masuk ke
 File tersebut dan Copy-Paste di System32 -> C:\Windows\System32 -> dan rename dengan nama glut32.dll
 
 
+![image](https://user-images.githubusercontent.com/38272712/196626947-d6f91253-4126-4f05-81a5-44efe0001689.png)
+File yang sudah di copy dan di Rename di copykan di dalam Folder C:\Windows\System32
